@@ -1,3 +1,3 @@
 # easyCTF
 
-Easy 
+# Easy to pratice CTF
